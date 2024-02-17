@@ -39,7 +39,7 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 ## License
 
-This project is open-sourced under the **MIT License**. See the LICENSE file for more details.
+This project is open-sourced under the **GNU GENERAL PUBLIC LICENSE**. See the LICENSE file for more details.
 
 ## Acknowledgments
 
